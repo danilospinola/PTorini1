@@ -30,6 +30,7 @@
 </div>
  
 <div align="center">
-  <img align="center" alt="Bill-Gates" height="400" width="300" src="https://38.media.tumblr.com/7594bef52085aef5d05c3164914fc059/tumblr_nk3p0nLoeo1qzgjfco1_1280.gif"> <br><br>
+  🤔 Curious fact... <br>
+  <img align="center" alt="Bill-Gates" height="400" width="300" src="https://38.media.tumblr.com/7594bef52085aef5d05c3164914fc059/tumblr_nk3p0nLoeo1qzgjfco1_1280.gif">   <br><br>
  <p>Some people say I look like this guy above</p>
 </div>
